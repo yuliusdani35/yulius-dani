@@ -1,6 +1,6 @@
 TUGAS SISTEM OPERASI
 Nama Kelompok	: Thomas Dalton  –  203400001
-               Yulius Dani Eko – 203400012
+                Yulius Dani Eko – 203400012
 Prodi			: Teknik informatika
 
 Chapter 5.42
